@@ -1,0 +1,44 @@
+/* Mobile */
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+    #potential h1{
+        font-size: 30px;
+        padding: 0 20px;
+        line-height: 40px;
+    }
+    #potential h2{
+        font-size: 20px;
+        line-height: 25px;
+        padding: 10px 20px 5px 20px;
+    }
+    #potential h3 {
+        font-size: 15px;
+    line-height: 20px;
+    padding: 3px 15px 0px 15px;
+    }
+    #potential p{
+        padding: 5px 10px;
+        font-size: 10px !important;
+        line-height: 15px;
+    }
+}
+
+
+/* Tab */
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+
+    
+}
+
+
+/* Laptop */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+
+    
+}
+
+
+/* Laptop L */
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+
+    
+}
